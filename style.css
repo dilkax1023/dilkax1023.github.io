@@ -161,6 +161,10 @@ section h2 {
     color: #0475ba;
 }
 
+.passion p {
+     margin-left: 80px;
+}
+
 .footer {
     background-color: #0475ba;
     display: grid;
